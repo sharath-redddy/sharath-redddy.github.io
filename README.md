@@ -6,7 +6,6 @@ A polished, responsive single-page portfolio .
 - Embedded project and certification links
 - Resume PDF in `assets/`
 - No framework or build process required
-- Optimized for GitHub Pages
 
 ## Local preview
 Open `index.html` in a browser, or run:
